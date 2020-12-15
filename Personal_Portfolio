@@ -19,6 +19,16 @@ STARR -> 400 w
 3. Evaluation on the group project as a whole
 STARR - > 400 w
 
+Research Project
+1. Task Definition
+Clearly described context (reason and problem definition) and research questions that are reasonable given context
+2. Evaluation
+Given several clear and motivated directions for future work
+3. Conclusions
+Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
+4. Planning
+Planned research project in a good, agile and efficient way
+
 Predictive Analytics
 1. Selecting a Model
 Supported model selection with references from literature
@@ -30,6 +40,14 @@ Taking appropriate countermeasures to prevent under- and overfitting and tunes h
 Comparing several models and additionally explains the differences between models
 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
+
+Domain Knowledge
+1. Introduction of the subject field
+written a good and complete introduction of subject field
+2. Literature Research
+Found enough relevant literature and all in-text literature references and bibliography are present
+3. Explanation of Terminology, Jargon and Definitions
+Explained all important and all relevent terminology, jargon and definitions
 
 Data Preprocessing
 1. Data Exploration
