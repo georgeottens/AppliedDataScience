@@ -6,6 +6,16 @@ Knock-Out Criteria:
 5. Every contribution should be accessible from the reader's guide in a single click
 6. Consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself
 
+Intro:
+This is my Personal Portfolio after following the minor Applied Data Science at the The Hague University. It will consist of different chapters on my work, my group work and various assessments explained.
+This Minor consists of six different projects which are related to real life data problems.
+The timespan of the projects were from September 2020 to January 2021.
+Every group has its own project-owner; the person who works at the concerned company.
+The group I was in was called the Parcel group, which consisted of five other students, all from different kinds of studies and nearby cities.
+Our project-owner is called Tim Ottens and he works at PostNL, the largest parcel-delivery company in The Netherlands.
+
+
+
 CONTENTS:
 
 DataCamp-Courses
@@ -14,8 +24,74 @@ Bijlage: DataCamp-Courses screenshots
 Reflection and Evaluation
 1. Reflection on own contribution to the project
 STARR -> 400 w
+Every week of the project we met online with the teachers and the project-owner.
+When I met with the project-owner it became clearer and clearer what the goal of this project was.
+Concluded in one sentence, our goal of the project was to predict the number of parcels which needed to be delivered the next day.
+
+Tim gave us data of six different customers; the number of parcels which they processed from January 2015 to March 2020.
+This was only a start of the given data, because all of the group members had to sign a Non-Disclosure Agreement.
+After everyone signed these agreements, Tim provided data on three-hundred different customers to work on.
+
+My job was to analyse the data provided by Tim, to come up with a way to predict these numbers of packages for the next day, while modelling with Python.
+Three groupmembers went and analysed the data using multiverate linear regression, while the two others and me searched for timeserie-models.
+We found eleven timeserie-models and made a selection of what kinds of models could be used for our given dataset.
+It was expected and ofcourse clear that this needed to be done before applying these models to the dataset.
+Without this literature study, there could not be a start in processing the data.
+
+After agreeing on the steps and models to be applied, I started working in Python.
+Some models were extensions of other models, so I started working on the most simple one first.
+About one model was produced every week, which made the timeschedule more clear, also for the other groupmembers.
+
+After building all the selected models, the most extensive one came out as the best model for the dataset.
+Making one model for each customer was not realisable, so it was performed for a selected number of customers.
+Although the models were not perfect, they were good enough for the project-owner.
+
+All and all I am pretty satisfied with the results.
+The work I have done was sufficiently in my opinion, because I got a faster handling in modelling.
+Some members were struggling sometimes, so I could assist them when necessary.
+I was able to explain the different kinds of models thoroughly and understandable.
+Something I would do differently next time, is to study literature more early, so I can get to action more quickly.
+
+
+1. Situatie
+    Wat was de situatie?
+    Wat gebeurde er?
+    Wie waren erbij betrokken?
+    Waar speelde de situatie zich af?
+    Wanneer speelde deze situatie?
+
+2. Taak
+
+    Wat was je taak?
+    Wat verwachtte je van jezelf in die situatie?
+    Wat was je rol?
+    Wat werd er van je verwacht?
+
+3. Actie
+
+    Wat heb je precies gezegd en/of gedaan?
+    Hoe was je aanpak?
+    Hoe reageerde de ander op jou?
+    Wat heb je vervolgens gezegd en/of gedaan?
+    En toen?
+
+4. Resultaat
+
+    Wat kwam eruit?
+    Hoe is het afgelopen?
+    Wat was het resultaat van je handelen?
+    Hoe reageerde de ander?
+
+5. Reflectie
+
+    Hoe vond je dat je het deed?
+    Was je tevreden met het resultaat?
+    Wat zou je een volgende keer anders doen?
+    Wat heb je daarvoor nodig?
 2. Reflection on own learning objectives
 STARR -> 400 w
+
+
 3. Evaluation on the group project as a whole
 STARR - > 400 w
 
