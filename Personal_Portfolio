@@ -19,6 +19,7 @@ CONTENTS:
 DataCamp-Courses
 Bijlage: DataCamp-Courses screenshots
 
+
 Reflection and Evaluation
 1. Reflection on own contribution to the project
 https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation1
@@ -27,43 +28,8 @@ https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20
 https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation2
 
 3. Evaluation on the group project as a whole
-STARR - > 400 w
+https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation3
 
-1. Situatie
-    Wat was de situatie?
-    Wat gebeurde er?
-    Wie waren erbij betrokken?
-    Waar speelde de situatie zich af?
-    Wanneer speelde deze situatie?
-
-2. Taak
-
-    Wat was je taak?
-    Wat verwachtte je van jezelf in die situatie?
-    Wat was je rol?
-    Wat werd er van je verwacht?
-
-3. Actie
-
-    Wat heb je precies gezegd en/of gedaan?
-    Hoe was je aanpak?
-    Hoe reageerde de ander op jou?
-    Wat heb je vervolgens gezegd en/of gedaan?
-    En toen?
-
-4. Resultaat
-
-    Wat kwam eruit?
-    Hoe is het afgelopen?
-    Wat was het resultaat van je handelen?
-    Hoe reageerde de ander?
-
-5. Reflectie
-
-    Hoe vond je dat je het deed?
-    Was je tevreden met het resultaat?
-    Wat zou je een volgende keer anders doen?
-    Wat heb je daarvoor nodig?
 
 Research Project
 1. Task Definition
@@ -74,6 +40,7 @@ Given several clear and motivated directions for future work
 Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
 4. Planning
 Planned research project in a good, agile and efficient way
+
 
 Predictive Analytics
 1. Selecting a Model
@@ -87,6 +54,7 @@ Comparing several models and additionally explains the differences between model
 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
+
 Domain Knowledge
 1. Introduction of the subject field
 written a good and complete introduction of subject field
@@ -94,6 +62,7 @@ written a good and complete introduction of subject field
 Found enough relevant literature and all in-text literature references and bibliography are present
 3. Explanation of Terminology, Jargon and Definitions
 Explained all important and all relevent terminology, jargon and definitions
+
 
 Data Preprocessing
 1. Data Exploration
@@ -105,14 +74,18 @@ Prepared data in an appropriate way, where necessary transforming data, removing
 4. Data visualization
 Correctly visualized data in support of decisions made for learning model
 
+
 Communication
 1. Presentations
 Prepared or gave more than two (internal/external) solid presentations
 2. Writing Paper
 Made a lot of effort on writing the paper
 
+
 Link to Python Notebooks
 
+
 List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
+
 
 Add any other assignment you feel is evidence of your abilities
