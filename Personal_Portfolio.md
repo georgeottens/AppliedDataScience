@@ -17,8 +17,7 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 # CONTENTS:
 
 ## DataCamp-Courses
-Bijlage: DataCamp-Courses screenshots
-https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/DataCamp.png
+Bijlage: [DataCamp-Courses screenshots](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/DataCamp.png)
 
 ## Reflection and Evaluation
 1. [Reflection on own contribution to the project](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation1)
