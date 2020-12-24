@@ -17,7 +17,18 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 # CONTENTS:
 
 ## DataCamp-Courses
-Bijlage: [DataCamp-Courses screenshots](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/DataCamp.png)
+1. [Introduction to Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Introduction%20to%20Python.pdf)
+2. [Python Data Science Toolbox (Part 1)](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
+3. [Intermediate Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Intermediate%20Python.pdf)
+4. [Python Data Science Toolbox (Part 2)](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
+5. [pandas Foundations](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20pandas%20Foundations.pdf)
+6. [Introduction to Data Visualization in Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Introduction%20to%20Data%20Visualization%20in%20Python.pdf)
+7. [Manipulating DataFrames with pandas](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Manipulating%20DataFrames%20with%20pandas.pdf)
+8. [Data Types for Data Science in Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Data%20Types%for%20Data%20Science%20in%20Python.pdf)
+9. [Cleaning Data in Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Cleaning%20Data%20in%20Python.pdf)
+10. [Preprocessing for Machine Learning in Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Preprocessing%20for%20Machine%20Learning%20in%20Python.pdf)
+
+
 
 ## Reflection and Evaluation
 1. [Reflection on own contribution to the project](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection-and-Evaluation/Reflection%20and%20Evaluation1.md)
