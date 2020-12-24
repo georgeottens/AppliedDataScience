@@ -1,4 +1,4 @@
-Knock-Out Criteria:
+# Knock-Out Criteria:
 1. The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.
 2. Portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.
 3. The (digital) portfolio is written in a very easily accessible way
@@ -6,7 +6,7 @@ Knock-Out Criteria:
 5. Every contribution should be accessible from the reader's guide in a single click
 6. Consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself
 
-Intro:
+# Intro:
 This is my Personal Portfolio after following the minor Applied Data Science at the The Hague University. It will consist of different chapters on my work, my group work and various assessments explained.
 This Minor consists of six different projects which are related to real life data problems.
 The timespan of the projects were from September 2020 to January 2021.
@@ -14,13 +14,13 @@ Every group has its own project-owner; the person who works at the concerned com
 The group I was in was called the Parcel group, which consisted of five other students, all from different kinds of studies and nearby cities.
 Our project-owner is called Tim Ottens and he works at PostNL, the largest parcel-delivery company in The Netherlands.
 
-CONTENTS:
+# CONTENTS:
 
-DataCamp-Courses
+## DataCamp-Courses
 Bijlage: DataCamp-Courses screenshots
 https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/DataCamp.png
 
-Reflection and Evaluation
+## Reflection and Evaluation
 1. Reflection on own contribution to the project
 https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation1
 
@@ -31,7 +31,7 @@ https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20
 https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation3
 
 
-Research Project
+## Research Project
 1. Task Definition
 Clearly described context (reason and problem definition) and research questions that are reasonable given context
 2. Evaluation
@@ -42,7 +42,7 @@ Discussed results, illustrated by examples(qualitative analysis), answers origin
 Planned research project in a good, agile and efficient way
 
 
-Predictive Analytics
+## Predictive Analytics
 1. Selecting a Model
 Supported model selection with references from literature
 2. Configuring a Model
@@ -55,7 +55,7 @@ Comparing several models and additionally explains the differences between model
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
 
-Domain Knowledge
+## Domain Knowledge
 1. Introduction of the subject field
 written a good and complete introduction of subject field
 2. Literature Research
@@ -64,7 +64,7 @@ Found enough relevant literature and all in-text literature references and bibli
 Explained all important and all relevent terminology, jargon and definitions
 
 
-Data Preprocessing
+## Data Preprocessing
 1. Data Exploration
 Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an ealry hypothesis
 2. Data Cleansing
@@ -75,17 +75,17 @@ Prepared data in an appropriate way, where necessary transforming data, removing
 Correctly visualized data in support of decisions made for learning model
 
 
-Communication
+## Communication
 1. Presentations
 Prepared or gave more than two (internal/external) solid presentations
 2. Writing Paper
 Made a lot of effort on writing the paper
 
 
-Link to Python Notebooks
+## Link to Python Notebooks
 
 
-List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
+## List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
 
 
-Add any other assignment you feel is evidence of your abilities
+## Add any other assignment you feel is evidence of your abilities
