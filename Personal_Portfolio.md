@@ -39,13 +39,50 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 
 
 ## Research Project
-1. Task Definition
+### 1. Task Definition
 Clearly described context (reason and problem definition) and research questions that are reasonable given context
-2. Evaluation
+
+PostNL is the biggest parceldelivery company in The Netherlands.
+With customers all around the world the number of packages that need to be processed can go to over a million packages per day.
+This project will only focus on PostNLs dutch customers.
+With a high number of customers it is difficult to predict the number of parcels in a fashionable manner.
+The company needs sufficient employees and trucks to process and deliver all these packages on time.
+A sudden rise in number of packages can result in packages not being delivered on time, because of insufficient process-applications like trucks and employees.
+Because of this problem this project has come to life.
+
+*How can PostNL apply machine learning models, to predict the number of packages that need to be processed the next day?*
+- What are the most common machine learning models for predicting time series?
+- What are the most applicable models for the given data?
+- What data can be used to improve the prediction?
+- How reliable are the predictions of previous models?
+
+### 2. Evaluation
 Given several clear and motivated directions for future work
-3. Conclusions
+
+When this project is completed, there is a specific kind of model which will predict the number of parcels for a certain amount of time.
+The accuracy of the model is yet to be defined.
+
+Future work might find a different kind of predictive model, which will predict the number of parcels even better.
+This can be an excisting model, but ofcourse also a newly formed model.
+
+The goal however, will not change; predicting a number of packages that need to be processed.
+I explicitly leave out saying the prediction for the next day, because the prediction can also be formed for a larger timescale, for instance a week or a month.
+
+The steps to achieving this prediction will not change.
+First theres the literature study, after that the coding itself, and ofcourse last but not least, the evaluation.
+
+### 3. Conclusions
 Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
-4. Planning
+
+Some relatively simple models were tested in the making of these predictions.
+Starting of with a simple [Auto Regressive(AR) model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/AR%20model.png), where data of three months was used:
+`train_data = [2019-01-01:2019-03-25]
+test_data = [2019-03-26:2019-04-01]`
+To see how well the model was able to predict the `test_data`.
+
+After using the AR model, the model was expanded with the Moving Average (ARMA), Integrated Moving Average (ARIMA) and finally, the Seasonal ARIMA model (SARIMA).
+
+### 4. Planning
 Planned research project in a good, agile and efficient way
 
 
