@@ -20,11 +20,11 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 Bijlage: [DataCamp-Courses screenshots](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/DataCamp.png)
 
 ## Reflection and Evaluation
-1. [Reflection on own contribution to the project](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation1)
+1. [Reflection on own contribution to the project](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection-and-Evaluation/Reflection%20and%20Evaluation1.md)
 
-2. [Reflection on own learning objectives](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation2)
+2. [Reflection on own learning objectives](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection-and-Evaluation/Reflection%20and%20Evaluation2)
 
-3. [Evaluation on the group project as a whole](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection%20and%20Evaluation3)
+3. [Evaluation on the group project as a whole](https://github.com/georgeottens/AppliedDataScience/blob/main/Reflection-and-Evaluation/Reflection%20and%20Evaluation3)
 
 
 ## Research Project
