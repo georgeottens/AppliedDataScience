@@ -97,42 +97,82 @@ Planned research project in a good, agile and efficient way
 
 
 ## Predictive Analytics
-1. Selecting a Model
+### 1. Selecting a Model
 Supported model selection with references from literature
-2. Configuring a Model
+
+While searching for applicable models, it was necessary to analyse the given data first to see what type of data it was.
+The data turned out to be timeseries, so the models needed to be timeserie-models.
+After finding [a list](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) of timeserie-models, a selection of models was made to be applied to our own data. This is were the AR, ARMA, ARIMA and SARIMA models came from.
+
+
+### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
-3. Training a Model
+
+
+
+
+### 3. Training a Model
 Taking appropriate countermeasures to prevent under- and overfitting and tunes hyperparameters
-4. Evaluating a Model
+
+
+
+
+### 4. Evaluating a Model
 Comparing several models and additionally explains the differences between models
-5. Visualizing the outcome of a model (explanatory)
+
+
+
+
+### 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
 
+
+
 ## Domain Knowledge
-1. Introduction of the subject field
+### 1. Introduction of the subject field
 written a good and complete introduction of subject field
-2. Literature Research
+
+This project consist of applying certain coding/models to excisting data, to predict unknown data in a later stadium.
+Some skill of coding and understanding the basics of Python are necessary to achieve results.
+
+
+
+### 2. Literature Research
 Found enough relevant literature and all in-text literature references and bibliography are present
-3. Explanation of Terminology, Jargon and Definitions
+
+
+### 3. Explanation of Terminology, Jargon and Definitions
 Explained all important and all relevent terminology, jargon and definitions
 
 
 ## Data Preprocessing
-1. Data Exploration
+### 1. Data Exploration
 Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an ealry hypothesis
-2. Data Cleansing
+
+
+### 2. Data Cleansing
 Cleansed data in a good and sufficient way
-3. Data preparation
+
+
+### 3. Data preparation
 Prepared data in an appropriate way, where necessary transforming data, removing outliers, filling in missing values etc.
-4. Data visualization
+
+
+### 4. Data visualization
 Correctly visualized data in support of decisions made for learning model
 
 
 ## Communication
-1. Presentations
+### 1. Presentations
 Prepared or gave more than two (internal/external) solid presentations
-2. Writing Paper
+
+These are PowerPoints given by me:
+1. [Powerpoint week 6 Monday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_6.pptx)
+2. [Powerpoint week 12 Friday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_12_vrijdag.pptx)
+3. At the 21st of January, our whole group will give a presentation for PostNL itself, to explain our reasonings and findings of the project.
+
+### 2. Writing Paper
 Made a lot of effort on writing the paper
 
 
