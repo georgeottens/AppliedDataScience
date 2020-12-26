@@ -145,6 +145,7 @@ Found enough relevant literature and all in-text literature references and bibli
 ### 3. Explanation of Terminology, Jargon and Definitions
 Explained all important and all relevent terminology, jargon and definitions
 
+All the necessary explanations of important and relevent terminology, jargon and definitions to get a better understanding of the project, can be found [here](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/3._Explanation_of_Terminology_Jargon_and_Definitions.md).
 
 ## Data Preprocessing
 ### 1. Data Exploration
