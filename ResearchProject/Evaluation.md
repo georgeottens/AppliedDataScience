@@ -11,4 +11,4 @@ The goal however, will not change; predicting a number of packages that need to 
 I explicitly leave out saying the prediction for the next day, because the prediction can also be formed for a larger timescale, for instance a week or a month.
 
 The steps to achieving this prediction will not change.
-First theres the literature study, after that the coding itself, and ofcourse last but not least, the evaluation.
+First theres the literature study, after that the coding itself, and ofcourse last but not least, the evaluation of the outcomes.
