@@ -47,19 +47,19 @@ A [clear description with reason and problem definition and research questions](
 
 Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Evaluation.md) for future work.
 
-------------
+XXX
 
 ### 3. Conclusions
 Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
 
 [Explanations](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Conclusions.md) of various results with illustrations and answers to the original research questions.
 
-------------
+XXX
 
 ### 4. Planning
 Planned research project in a good, agile and efficient way
 
-------------
+XXX
 
 ## Predictive Analytics
 ### 1. Selecting a Model
@@ -69,27 +69,27 @@ While searching for applicable models, it was necessary to analyse the given dat
 The data turned out to be timeseries, so the models needed to be timeserie-models.
 After finding [a list](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) of timeserie-models, a selection of models was made to be applied to our own data. This is were the AR, ARMA, ARIMA and SARIMA models came from.
 
------------
+XXX
 
 ### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
 
------------
+XXX
 
 ### 3. Training a Model
 Taking appropriate countermeasures to prevent under- and overfitting and tunes hyperparameters
 
------------
+XXX
 
 ### 4. Evaluating a Model
 Comparing several models and additionally explains the differences between models
 
------------
+XXX
 
 ### 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
-----------
+XXX
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
@@ -98,12 +98,12 @@ written a good and complete introduction of subject field
 This project consist of applying certain coding/models to excisting data, to predict unknown data in a later stadium.
 Some skill of coding and understanding the basics of Python are necessary to achieve results.
 
-----------
+XXX
 
 ### 2. Literature Research
 Found enough relevant literature and all in-text literature references and bibliography are present
 
-----------
+XXX
 
 ### 3. Explanation of Terminology, Jargon and Definitions
 
@@ -113,22 +113,22 @@ All the necessary explanations of important and relevent terminology, jargon and
 ### 1. Data Exploration
 Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an ealry hypothesis
 
-----------
+XXX
 
 ### 2. Data Cleansing
 Cleansed data in a good and sufficient way
 
-----------
+XXX
 
 ### 3. Data preparation
 Prepared data in an appropriate way, where necessary transforming data, removing outliers, filling in missing values etc.
 
-----------
+XXX
 
 ### 4. Data visualization
 Correctly visualized data in support of decisions made for learning model
 
-----------
+XXX
 
 ## Communication
 ### 1. Presentations
@@ -142,16 +142,16 @@ These are PowerPoints given by me:
 ### 2. Writing Paper
 Made a lot of effort on writing the paper
 
------------
+XXX
 
 ## Link to Python Notebooks
 
------------
+XXX
 
 ## List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
 
------------
+XXX
 
 ## Add any other assignment you feel is evidence of your abilities
 
-----------
+XXX
