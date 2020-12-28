@@ -45,9 +45,8 @@ A [clear description with reason and problem definition and research questions](
 
 ### 2. Evaluation
 
-Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Evaluation.md) for future work.
+Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Evaluation.md) for future work to achieve further results.
 
-XXX
 
 ### 3. Conclusions
 Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
@@ -88,6 +87,10 @@ XXX
 
 ### 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
+
+The best model qualitatively is the one were all the possible vectors were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) and using real values had this statement.
+This model had a `train_data = data['2016-01-01':'2017-01-01']` and a `val_data = data['2018-01-01':'2019-01-01']`.
+It came out as the best predictive model for the used dataset.
 
 XXX
 
