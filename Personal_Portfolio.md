@@ -6,6 +6,20 @@
 5. Every contribution should be accessible from the reader's guide in a single click
 6. Consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself
 
+# Minor Applied Data Science Personal Portfolio
+
+**Student Name:** George Ottens   
+**Student Number:** 20176147  
+**School:** The Hague University
+
+
+**Minor Supervisors:** 
+- Jeroen Vuurens
+- Tony Andrioli
+- Gerda in 't Veld
+- Brain Keijzer
+- Ruud Vermeij
+
 # Intro:
 This is my Personal Portfolio after following the minor Applied Data Science at the The Hague University. It will consist of different chapters on my work, my group work and various assessments explained.
 This Minor consists of six different projects which are related to real life data problems.
