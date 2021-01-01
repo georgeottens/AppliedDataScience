@@ -30,6 +30,44 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 
 # CONTENTS:
 
+### DataCamp-Courses
+  - Screenshots of 10 finished courses
+  
+### Reflection and Evaluation
+  - Reflection on own contribution to the project
+  - Reflection on own learning objectives
+  - Evaluation on the group project as a whole
+
+### Research Project
+  - Task Definition
+  - Evaluation
+  - Conclusions
+  - Planning
+
+### Predictive Analytics
+  - Selecting a Model
+  - Configuring a Model
+  - Training a Model
+  - Evaluating a Model
+  - Visualizing the outcome of a Model (explanatory)
+
+### Domain Knowledge
+  - Introduction of the subject field
+  - Literature Research
+  - Explanation of Terminology, Jargon and Definitions
+
+### Data Preprocessing
+  - Data Exploration
+  - Data Cleansing
+  - Data preparation
+  - Data visualization
+
+### Communication
+  - Presentations
+  - Writing Paper
+
+
+
 ## DataCamp-Courses
 1. [Introduction to Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Introduction%20to%20Python.pdf)
 2. [Python Data Science Toolbox (Part 1)](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
