@@ -114,13 +114,11 @@ XXX
 
 ## Predictive Analytics
 ### 1. Selecting a Model
-Supported model selection with references from literature
+~~Supported model selection with references from literature~~
 
 While searching for applicable models, it was necessary to analyse the given data first to see what type of data it was.
-The data turned out to be timeseries, so the models needed to be timeserie-models.
-After finding [a list](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) of timeserie-models, a selection of models was made to be applied to our own data. This is were the AR, ARMA, ARIMA and SARIMA models came from.
-
-XXX
+The data turned out to be Time Series, so the models needed to be Time Series models.
+After finding [a list](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) of timeserie-models, a selection of models was made to be applied to our own data. This is where the AR, ARMA, ARIMA and SARIMA models came from, because these were some of the [most common](https://www.iunera.com/kraken/big-data-science-intelligence/time-series-and-analytics/top-5-common-time-series-forecasting-algorithms/) Time Series forecasting models. Also these models seemed to work great with the featured data.
 
 ### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
@@ -148,10 +146,9 @@ XXX
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
-written a good and complete introduction of subject field
+~~written a good and complete introduction of subject field~~
 
-This project consist of applying certain coding/models to excisting data, to predict unknown data in a later stadium.
-Some skill of coding and understanding the basics of Python are necessary to achieve results.
+An [introduction](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/1._Introduction_of_the_Subject_Field.md) of the subject field within this project.
 
 XXX
 
