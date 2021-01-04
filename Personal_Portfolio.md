@@ -163,7 +163,7 @@ All the necessary explanations of important and relevent terminology, jargon and
 
 ## Data Preprocessing
 ### 1. Data Exploration
-Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an ealry hypothesis
+Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an early hypothesis
 
 XXX
 
