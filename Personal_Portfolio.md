@@ -116,9 +116,9 @@ XXX
 ### 1. Selecting a Model
 ~~Supported model selection with references from literature~~
 
-While searching for applicable models, it was necessary to analyse the given data first to see what type of data it was.
-The data turned out to be Time Series, so the models needed to be Time Series models.
-After finding [a list](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) of timeserie-models, a selection of models was made to be applied to our own data. This is where the AR, ARMA, ARIMA and SARIMA models came from, because these were some of the [most common](https://www.iunera.com/kraken/big-data-science-intelligence/time-series-and-analytics/top-5-common-time-series-forecasting-algorithms/) Time Series forecasting models. Also these models seemed to work great with the featured data.
+Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for the used models for this project.
+
+XXX
 
 ### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
