@@ -1,2 +1,4 @@
 # Applied Data Science
 This Repository is part of the minor Applied Data Science at the University of The Hague. All the files stated in this Repository can be used for individual purposes with references.
+
+To see into the whole file open Personal_Portfolio.md
