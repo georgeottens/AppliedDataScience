@@ -110,7 +110,7 @@ XXX
 ### 4. Planning
 ~~Planned research project in a good, agile and efficient way~~
 
-[The planning for this project](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
+[The planning for this project.](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
 
 ## Predictive Analytics
 ### 1. Selecting a Model
