@@ -108,7 +108,6 @@ Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blo
 XXX
 
 ### 4. Planning
-~~Planned research project in a good, agile and efficient way~~
 
 [The planning for this project.](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
 
