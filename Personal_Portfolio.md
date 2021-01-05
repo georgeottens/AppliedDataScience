@@ -101,16 +101,16 @@ Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blo
 
 
 ### 3. Conclusions
-Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
+~~Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance~~
 
 [Explanations](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Conclusions.md) of various results with illustrations and answers to the original research questions.
 
 XXX
 
 ### 4. Planning
-Planned research project in a good, agile and efficient way
+~~Planned research project in a good, agile and efficient way~~
 
-XXX
+[The planning for this project](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
 
 ## Predictive Analytics
 ### 1. Selecting a Model
