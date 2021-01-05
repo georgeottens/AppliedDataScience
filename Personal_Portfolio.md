@@ -146,16 +146,12 @@ XXX
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
-~~written a good and complete introduction of subject field~~
 
 An [introduction](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/1._Introduction_of_the_Subject_Field.md) of the subject field within this project.
 
-XXX
-
 ### 2. Literature Research
-Found enough relevant literature and all in-text literature references and bibliography are present
 
-XXX
+[Used Literature](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/2.Literature_Research.md) throughout this project.
 
 ### 3. Explanation of Terminology, Jargon and Definitions
 
