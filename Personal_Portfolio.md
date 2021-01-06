@@ -1,11 +1,3 @@
-# Knock-Out Criteria:
-1. The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.
-2. Portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.
-3. The (digital) portfolio is written in a very easily accessible way
-4. The main document is a reader's guide (index) that shortly introduces your contributions and links to pages where the contributions are described in detail
-5. Every contribution should be accessible from the reader's guide in a single click
-6. Consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself
-
 # Minor Applied Data Science Personal Portfolio
 
 **Student Name:** George Ottens   
@@ -92,11 +84,9 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 
 ## Research Project
 ### 1. Task Definition
-
 A [clear description with reason and problem definition and research questions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Task_Definition.md) of this project.
 
 ### 2. Evaluation
-
 Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Evaluation.md) for future work to achieve further results.
 
 
@@ -108,16 +98,12 @@ Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blo
 XXX
 
 ### 4. Planning
-
 [The planning for this project.](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
 
 ## Predictive Analytics
 ### 1. Selecting a Model
-~~Supported model selection with references from literature~~
 
 Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for the used models for this project.
-
-XXX
 
 ### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
@@ -125,9 +111,8 @@ Explains why configuration is reasonable (for instance using relevant literature
 XXX
 
 ### 3. Training a Model
-Taking appropriate countermeasures to prevent under- and overfitting and tunes hyperparameters
 
-XXX
+[Reasoning](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/3._Training_a_Model.md) on taking measurements to prevent under- and overfitting and tuning hyperparameters.
 
 ### 4. Evaluating a Model
 Comparing several models and additionally explains the differences between models
