@@ -110,7 +110,6 @@ Explains why configuration is reasonable (for instance using relevant literature
 XXX
 
 ### 3. Training a Model
-
 [Reasoning](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/3._Training_a_Model.md) on taking measurements to prevent under- and overfitting and tuning hyperparameters.
 
 ### 4. Evaluating a Model
@@ -132,11 +131,9 @@ XXX
 An [introduction](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/1._Introduction_of_the_Subject_Field.md) of the subject field within this project.
 
 ### 2. Literature Research
-
 [Used Literature](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/2.Literature_Research.md) throughout this project.
 
 ### 3. Explanation of Terminology, Jargon and Definitions
-
 All the necessary explanations of important and relevent terminology, jargon and definitions to get a better understanding of the project, can be found [here](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/3._Explanation_of_Terminology_Jargon_and_Definitions.md).
 
 ## Data Preprocessing
@@ -162,8 +159,6 @@ XXX
 
 ## Communication
 ### 1. Presentations
-Prepared or gave more than two (internal/external) solid presentations
-
 These are PowerPoints given by me:
 1. [Powerpoint week 6 Monday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_6.pptx)
 2. [Powerpoint week 12 Friday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_12_vrijdag.pptx)
@@ -171,7 +166,7 @@ These are PowerPoints given by me:
 
 ### 2. Writing Paper
 Made a lot of effort on writing the paper
-
+Written Results: SARIMA model section
 XXX
 
 ## Link to Python Notebooks
