@@ -98,12 +98,11 @@ Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blo
 XXX
 
 ### 4. Planning
-[The planning for this project.](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md)
+The [planning](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md) for this project.
 
 ## Predictive Analytics
 ### 1. Selecting a Model
-
-Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for the used models for this project.
+Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for models to be used for this project.
 
 ### 2. Configuring a Model
 Explains why configuration is reasonable (for instance using relevant literature)
@@ -130,7 +129,6 @@ XXX
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
-
 An [introduction](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/1._Introduction_of_the_Subject_Field.md) of the subject field within this project.
 
 ### 2. Literature Research
