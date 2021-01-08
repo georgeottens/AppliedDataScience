@@ -147,11 +147,11 @@ All the necessary explanations of important and relevent terminology, jargon and
 [Preparing Data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/3._Data_Preparation.md) to be used for modelling.
 
 ### 4. Data visualization
-Correctly visualized data in support of decisions made for learning model
+After choosing the SARIMA model as best model, visualization is necessary to be able to explain the model's findings and to conclude if the model did well or not.
+Therefore the best visualization is the one where you can see the real data 2018-01-01:2019-01-01 with the predicted values of 2018-01-01:2019-01-01.
+The model has not seen that data yet, so it predicts based on the 2 years before.
 
-With the different kinds of models worked on, the chosen SARIMA model had some specific c
-
-XXX
+- [SARIMA real values rolling window visualization](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png)
 
 ## Communication
 ### 1. Presentations
