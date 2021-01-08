@@ -120,7 +120,7 @@ XXX
 ### 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
-The best model qualitatively is the one were all the possible vectors were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) and using real values had this statement.
+The best model qualitatively is the one were all the possible parameters were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) while using real values had this statement.
 This model had a `train_data = data['2016-01-01':'2017-01-01']` and a `val_data = data['2018-01-01':'2019-01-01']`.
 It came out as the best predictive model for the used dataset.
 
@@ -138,22 +138,18 @@ All the necessary explanations of important and relevent terminology, jargon and
 
 ## Data Preprocessing
 ### 1. Data Exploration
-Properly examined and visualized data, distributions, outliers, correlations and using analysis to give directions for an early hypothesis
-
-XXX
+[Looking into](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/1._Data_Exploration.md) the provided data.
 
 ### 2. Data Cleansing
-Cleansed data in a good and sufficient way
-
-XXX
+[Cleaning the Data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/2._Data_Cleansing.md).
 
 ### 3. Data preparation
-Prepared data in an appropriate way, where necessary transforming data, removing outliers, filling in missing values etc.
-
-XXX
+[Preparing Data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/3._Data_Preparation.md) to be used for modelling.
 
 ### 4. Data visualization
 Correctly visualized data in support of decisions made for learning model
+
+With the different kinds of models worked on, the chosen SARIMA model had some specific c
 
 XXX
 
