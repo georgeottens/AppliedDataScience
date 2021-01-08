@@ -84,7 +84,7 @@ Our project-owner is called Tim Ottens and he works at PostNL, the largest parce
 
 ## Research Project
 ### 1. Task Definition
-A [clear description with reason and problem definition and research questions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Task_Definition.md) of this project.
+A [clear description](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Task_Definition.md) with reason and problem definition and research questions of this project.
 
 ### 2. Evaluation
 Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Evaluation.md) for future work to achieve further results.
