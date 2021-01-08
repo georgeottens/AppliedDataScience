@@ -21,45 +21,6 @@ The group I was in was called the Parcel group, which consisted of five other st
 Our project-owner is called Tim Ottens and he works at PostNL, the largest parcel-delivery company in The Netherlands.
 
 # CONTENTS:
-
-### DataCamp-Courses
-  - Screenshots of 10 finished courses
-  
-### Reflection and Evaluation
-  - Reflection on own contribution to the project
-  - Reflection on own learning objectives
-  - Evaluation on the group project as a whole
-
-### Research Project
-  - Task Definition
-  - Evaluation
-  - Conclusions
-  - Planning
-
-### Predictive Analytics
-  - Selecting a Model
-  - Configuring a Model
-  - Training a Model
-  - Evaluating a Model
-  - Visualizing the outcome of a Model (explanatory)
-
-### Domain Knowledge
-  - Introduction of the subject field
-  - Literature Research
-  - Explanation of Terminology, Jargon and Definitions
-
-### Data Preprocessing
-  - Data Exploration
-  - Data Cleansing
-  - Data preparation
-  - Data visualization
-
-### Communication
-  - Presentations
-  - Writing Paper
-
-
-
 ## DataCamp-Courses
 1. [Introduction to Python](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Introduction%20to%20Python.pdf)
 2. [Python Data Science Toolbox (Part 1)](https://github.com/georgeottens/AppliedDataScience/blob/main/DataCamp/certificate%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
@@ -147,11 +108,7 @@ All the necessary explanations of important and relevent terminology, jargon and
 [Preparing Data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/3._Data_Preparation.md) to be used for modelling.
 
 ### 4. Data visualization
-After choosing the SARIMA model as best model, visualization is necessary to be able to explain the model's findings and to conclude if the model did well or not.
-Therefore the best visualization is the one where you can see the real data 2018-01-01:2019-01-01 with the predicted values of 2018-01-01:2019-01-01.
-The model has not seen that data yet, so it predicts based on the 2 years before.
-
-- [SARIMA real values rolling window visualization](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png)
+[Decisions on visualizing data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/4._Data_Visualization.md) with selected predictive model.
 
 ## Communication
 ### 1. Presentations
@@ -161,8 +118,9 @@ These are PowerPoints given by me:
 3. At the 21st of January, our whole group will give a presentation for PostNL itself, to explain our reasonings and findings of the project.
 
 ### 2. Writing Paper
-Made a lot of effort on writing the paper
-Written Results: SARIMA model section
+Written:
+- Results: SARIMA model section
+
 XXX
 
 ## Link to Python Notebooks
