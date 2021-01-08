@@ -117,6 +117,8 @@ These are PowerPoints given by me:
 2. [Powerpoint week 12 Friday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_12_vrijdag.pptx)
 3. At the 21st of January, our whole group will give a presentation for PostNL itself, to explain our reasonings and findings of the project.
 
+Check the ReadME.md file in the [presentations-folder](https://github.com/georgeottens/AppliedDataScience/tree/main/Presentations) for instructions on how to open them.
+
 ### 2. Writing Paper
 Written:
 - Results: SARIMA model section
