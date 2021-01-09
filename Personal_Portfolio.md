@@ -126,8 +126,7 @@ Written:
 XXX
 
 ## Link to Python Notebooks
-
-XXX
+To access all the Python Notebooks click on [this link](https://github.com/georgeottens/AppliedDataScience/tree/main/Python_Notebooks). All the Python Notebooks that were most important are linked seperately throughout the Portfolio.
 
 ## List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
 
