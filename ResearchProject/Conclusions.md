@@ -2,7 +2,7 @@
 Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
 
 Some relatively simple models were tested in the making of these predictions.
-Starting of with a simple [Auto Regressive(AR) model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/AR%20model.png), where data of three months was used:
+Starting of with a simple [Auto Regressive(AR) model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/AR%20model.png) with [its code](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/AR_model_klant_69_werkelijke_aantallen_2018-01_2018-03.ipynb), where data of three months was used:
 `train_data = ['2019-01-01':'2019-03-25']
 test_data = ['2019-03-26':'2019-04-01']`
 To see how well the model was able to predict the `test_data`.
