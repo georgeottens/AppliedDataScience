@@ -81,7 +81,7 @@ XXX
 ### 5. Visualizing the outcome of a model (explanatory)
 Visualizing results both quantatively in a plot and where applicable qualitatively using examples
 
-The best model qualitatively is the one were all the possible parameters were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) while using real values had this statement.
+The best model qualitatively is the one were all the possible parameters were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) and [its code](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/SARIMA_model_klant_69_rolling_window_werkelijk.ipynb) while using real values had this statement.
 This model had a `train_data = data['2016-01-01':'2017-01-01']` and a `val_data = data['2018-01-01':'2019-01-01']`.
 It came out as the best predictive model for the used dataset.
 
