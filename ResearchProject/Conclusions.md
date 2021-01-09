@@ -11,7 +11,7 @@ As you can see in the AR model, it did pretty well on predicting the `test_data`
 
 After using the AR model, the model was expanded with the Moving Average (ARMA), Integrated Moving Average (ARIMA) and finally, the Seasonal ARIMA model (SARIMA).
 
-With the [ARMA model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/ARMA%20model.png), the chosen training data was `['2016-01-01':'2019-09-01']` while the test data was `['2019-09-01':'2019-10-01']`,
+With the [ARMA model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/ARMA%20model.png) with [its code](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/ARMA_model_klant_69.ipynb), the chosen training data was `['2016-01-01':'2019-09-01']` while the test data was `['2019-09-01':'2019-10-01']`,
 so the model has 3 years and 8 months of training data, with 1 month as test data.
 
 The model has `RMSE = 271` and `R^2 = 0.73`. The smaller the RMSE and the closer R^2 gets to 1, the better the model. A perfect model would have an RMSE of 0 and an R^2 of 1.
