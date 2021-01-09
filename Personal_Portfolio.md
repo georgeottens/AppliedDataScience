@@ -66,7 +66,8 @@ The [planning](https://github.com/georgeottens/AppliedDataScience/blob/main/Rese
 Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for models to be used for this project.
 
 ### 2. Configuring a Model
-Explains why configuration is reasonable (for instance using relevant literature)
+~~Explains why configuration is reasonable (for instance using relevant literature)~~
+
 
 XXX
 
@@ -125,13 +126,12 @@ Written:
 
 XXX
 
-## Link to Python Notebooks
+### Link to Python Notebooks
 To access all the Python Notebooks click on [this link](https://github.com/georgeottens/AppliedDataScience/tree/main/Python_Notebooks). All the Python Notebooks that were most important are linked seperately throughout the Portfolio.
 
-## List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
+### List the tickets from the Scrum backlog that you have worked on, linked to deliverables, own experiments, etc.
+[Link](https://github.com/georgeottens/AppliedDataScience/blob/main/links/Trello_Links.md) to Scrum tickets.
 
-XXX
-
-## Add any other assignment you feel is evidence of your abilities
+### Add any other assignment you feel is evidence of your abilities
 
 XXX
