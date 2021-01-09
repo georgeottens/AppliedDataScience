@@ -1,6 +1,6 @@
 # Trello Links
 In this document you can find links to different TrelloBoard-tickets I have worked on individually or with groupmembers.
-[Trello](https://trello.com/nl) is a digital ambiance for using Scrum.
+[Trello](https://trello.com/nl) is a digital environment for using Scrum.
 
 ## My Tickets
 ### Individual:
