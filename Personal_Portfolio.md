@@ -72,18 +72,10 @@ Some [statements](https://github.com/georgeottens/AppliedDataScience/blob/main/P
 [Reasoning](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/3._Training_a_Model.md) on taking measurements to prevent under- and overfitting and tuning hyperparameters.
 
 ### 4. Evaluating a Model
-Comparing several models and additionally explains the differences between models
-
-XXX
+[Conclude](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/4._Evaluating_A_Model.md) on the differences of the produced models.
 
 ### 5. Visualizing the outcome of a model (explanatory)
-Visualizing results both quantatively in a plot and where applicable qualitatively using examples
-
-The best model qualitatively is the one were all the possible parameters were in use. The [SARIMA model with a rolling window](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/SARIMA_Rolling_Window.png) and [its code](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/SARIMA_model_klant_69_rolling_window_werkelijk.ipynb) while using real values had this statement.
-This model had a `train_data = data['2016-01-01':'2017-01-01']` and a `val_data = data['2018-01-01':'2019-01-01']`.
-It came out as the best predictive model for the used dataset.
-
-XXX
+Best Model [visualized and explained](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/5._Visualizing_The_Outcome_Of_A_Model.md).
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
