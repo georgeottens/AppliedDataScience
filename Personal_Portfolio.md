@@ -16,9 +16,9 @@
 This is my Personal Portfolio after following the minor Applied Data Science at the The Hague University. It will consist of different chapters on my work, my group work and various assessments explained.
 This Minor consists of six different projects which are related to real life data problems.
 The timespan of the projects were from September 2020 to January 2021.
-Every group has its own project-owner; the person who works at the concerned company.
+Every group has its own project-owner; the person who works at a concerned company.
 The group I was in was called the Parcel group, which consisted of five other students, all from different kinds of studies and nearby cities.
-Our project-owner is called Tim Ottens and he works at PostNL, the largest parcel-delivery company in The Netherlands.
+Our project-owner's name is Tim Ottens and he works at PostNL, the largest parcel-delivery company in The Netherlands.
 
 # CONTENTS:
 ## DataCamp-Courses
@@ -66,10 +66,7 @@ The [planning](https://github.com/georgeottens/AppliedDataScience/blob/main/Rese
 Making a [selection](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/1.Selecting_a_model.md) for models to be used for this project.
 
 ### 2. Configuring a Model
-~~Explains why configuration is reasonable (for instance using relevant literature)~~
-
-
-XXX
+Some [statements](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/2._Configuring_A_Model.md) to find the best model-configuration.
 
 ### 3. Training a Model
 [Reasoning](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/3._Training_a_Model.md) on taking measurements to prevent under- and overfitting and tuning hyperparameters.
