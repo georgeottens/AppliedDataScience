@@ -94,5 +94,5 @@ Concluding SARIMA, the best model is the Regular Rolling Window using Real Value
 This is because the graph is easy to interpret, and the biggest miss in peak, is no problem according to PostNL.
 
 ## Final Conclusion:
-From all the models formed in this project, the SARIMA model using real values and a rolling window came out as the best model.
+From all the models formed in this project, the answer to what model is best to be used for the predictions, the SARIMA model using real values and a rolling window came out as the best model.
 Although the RMSE and R^2 could not be formed, PostNL has concluded that this is the best model to be used for their purposes.
