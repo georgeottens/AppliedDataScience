@@ -108,8 +108,8 @@ Check the ReadME.md file in the [presentations-folder](https://github.com/george
 ### 2. Writing Paper
 Written:
 - Results: SARIMA model section
-
-XXX
+- Conclusion: SARIMA model section/General conclusion
+- Final check for the entirety of the Paper
 
 ## Link to Python Notebooks
 To access all the Python Notebooks click on [this link](https://github.com/georgeottens/AppliedDataScience/tree/main/Python_Notebooks). All the Python Notebooks that were most important are linked seperately throughout the Portfolio.
@@ -118,5 +118,4 @@ To access all the Python Notebooks click on [this link](https://github.com/georg
 [Link](https://github.com/georgeottens/AppliedDataScience/blob/main/links/Trello_Links.md) to Scrum tickets.
 
 ## Add any other assignment you feel is evidence of your abilities
-
-XXX
+All the abilities learned and used are stated throughout this portfolio.
