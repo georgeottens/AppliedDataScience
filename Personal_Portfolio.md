@@ -52,11 +52,7 @@ Motivational [directions](https://github.com/georgeottens/AppliedDataScience/blo
 
 
 ### 3. Conclusions
-~~Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance~~
-
-[Explanations](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Conclusions.md) of various results with illustrations and answers to the original research questions.
-
-XXX
+[Explanations](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Conclusions.md) of various results with illustrations and answers to the original research question.
 
 ### 4. Planning
 The [planning](https://github.com/georgeottens/AppliedDataScience/blob/main/ResearchProject/Planning.md) for this project.
