@@ -91,5 +91,6 @@ For Rolling Window Stationary Data, the Regular Rolling Window came out as best.
 Concluding SARIMA, the best model is the Regular Rolling Window using Real Values.
 This is because the graph is easy to interpret, and the biggest miss in peak, is no problem according to PostNL.
 
-**Final Conclusion:** from all the models formed in this project, the SARIMA model using real values and a rolling window came out as the best model.
+## Final Conclusion:
+From all the models formed in this project, the SARIMA model using real values and a rolling window came out as the best model.
 Although the RMSE and R^2 could not be formed, PostNL has concluded that this is the best model to be used for their purposes.
