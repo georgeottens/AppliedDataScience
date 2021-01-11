@@ -1,6 +1,4 @@
 ### 1. Task Definition
-Clearly described context (reason and problem definition) and research questions that are reasonable given context
-
 PostNL is the biggest parceldelivery company in The Netherlands.
 With customers all around the world the number of packages that need to be processed can go to over a million packages per day.
 This project will only focus on PostNLs dutch customers.
@@ -12,5 +10,4 @@ Because of this problem this project has come to life.
 *How can PostNL apply machine learning models, to predict the number of packages that need to be processed the next day?*
 - What are the most common machine learning models for predicting time series?
 - What are the most applicable models for the given data?
-- What data can be used to improve the prediction?
-- How reliable are the predictions of previous models?
+- What is the best machine learning model for this assignment?
