@@ -1,6 +1,4 @@
 ### 2. Evaluation
-Given several clear and motivated directions for future work
-
 When this project is completed, there is a specific kind of model which will predict the number of parcels for a certain amount of time.
 The accuracy of the model is yet to be defined.
 
