@@ -1,6 +1,4 @@
 ## 3. Conclusions
-Discussed results, illustrated by examples(qualitative analysis), answers original research questions based on findings in study, tested outcomes for statistical significance
-
 ## AR
 Some relatively simple models were tested in the making of these predictions.
 Starting of with a simple [Auto Regressive(AR) model](https://github.com/georgeottens/AppliedDataScience/blob/main/Python-Graphs/AR%20model.png)/[Code](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/AR_model_klant_69_werkelijke_aantallen_2018-01_2018-03.ipynb), where data of three months was used:
