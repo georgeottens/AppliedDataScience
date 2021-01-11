@@ -48,7 +48,9 @@ This meant that this model was also contaminated.
 
 After having a meeting about splitting the dataset in [train/validation/test](https://github.com/georgeottens/AppliedDataScience/blob/main/Python_Notebooks/SARIMA_model_klant_69_train_val_test_optimaliseren.ipynb) sets with stationary data, the model was trained with the training set only, while predicting the values of the validation set.
 This was the right way to apply a model.
-The model has an `RMSE = 151` and `R^2 = 0.34`.
+The different sets were split as such and used for all the following models: `train_set = ['2016-01-01':'2018-01-01']`, `val_set = ['2018-01-01':'2019-01-01']` and `test_set =['2019-01-01':'2020-01-01']`.
+
+The first regular SARIMA model has an `RMSE = 151` and `R^2 = 0.34`.
 When looking into the ARMA model, this model has a lower RMSE which is good, but a lower R^2 aswell, which means that the model has more diviation then the ARMA model.
 As can be seen the model predicted the beginning of the validation set fairly well, but oscillated a little towards the 0 point of the graph.
 The end of the validation set was not predicted even close to the real values.
