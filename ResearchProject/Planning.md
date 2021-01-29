@@ -18,3 +18,7 @@ In the beginning I thought this retrospective was a little bit useless.
 You just state what you did that week and that's it.
 But later I saw that it was also a good way of reflecting yourself towards others and giving/recieving feedback.
 This helped me to plan the assignments each week not only for my own schedule, but also to help other groupmembers that were waiting for my assignment to be done.
+
+
+I found this type of planning very usefull, not only for my own accomplishments, but also for the group.
+Although I had to get used to this way of agile scrumplanning, it was very efficient during the project.
