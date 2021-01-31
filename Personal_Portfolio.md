@@ -71,7 +71,7 @@ Some [statements](https://github.com/georgeottens/AppliedDataScience/blob/main/P
 [Conclude](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/4._Evaluating_A_Model.md) on the differences of the produced models.
 
 ### 5. Visualizing the outcome of a model (explanatory)
-Best Model [visualized and explained](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/5._Visualizing_The_Outcome_Of_A_Model.md).
+All the constructed models [visualized and differences explained](https://github.com/georgeottens/AppliedDataScience/blob/main/Predictive_Analytics/5._Visualizing_The_Outcome_Of_A_Model.md) including the best model for this project.
 
 ## Domain Knowledge
 ### 1. Introduction of the subject field
