@@ -81,7 +81,7 @@ An [introduction](https://github.com/georgeottens/AppliedDataScience/blob/main/D
 [Used Literature](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/2.Literature_Research.md) throughout this project.
 
 ### 3. Explanation of Terminology, Jargon and Definitions
-All the necessary explanations of important and relevent terminology, jargon and definitions to get a better understanding of the project, can be found [here](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/3._Explanation_of_Terminology_Jargon_and_Definitions.md).
+All the necessary explanations of important and relevent terminology, jargon and definitions that apply to this project can be found [here](https://github.com/georgeottens/AppliedDataScience/blob/main/Domain_Knowledge/3._Explanation_of_Terminology_Jargon_and_Definitions.md).
 
 ## Data Preprocessing
 ### 1. Data Exploration
