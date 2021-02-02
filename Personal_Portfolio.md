@@ -93,8 +93,11 @@ All the necessary explanations of important and relevent terminology, jargon and
 ### 3. Data preparation
 [Preparing Data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/3._Data_Preparation.md) to be used for modelling.
 
-### 4. Data visualization
-[Decisions on visualizing data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/4._Data_Visualization.md) with selected predictive model.
+### 4. Data explanation
+[Explaining](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/4._Data_Explanation.md) the entire dataset.
+
+### 5. Data visualization
+[Decisions on visualizing data](https://github.com/georgeottens/AppliedDataScience/blob/main/Data_Preprocessing/5._Data_Visualization.md) with selected predictive model.
 
 ## Communication
 ### 1. Presentations
