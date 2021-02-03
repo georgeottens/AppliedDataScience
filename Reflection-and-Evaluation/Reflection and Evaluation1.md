@@ -24,9 +24,8 @@ After building all the selected models, the most extensive one came out as the b
 Making one model for each customer was not realisable, so it was performed for a selected number of customers.
 Although the models were not perfect, they were good enough for the project-owner.
 
-All and all I am pretty satisfied with the results.
-The work I have done was sufficiently in my opinion, because I got a faster handling in modelling.
-Some members were struggling sometimes, so I could assist them when necessary.
-I was able to explain the different kinds of models thouroughly and understandable.
+All and all I have discovered that I have learned a lot of Data Science jargon and mostly coding myself.
+While I learned more and more about coding throughout the project, I noticed the handling and speed of coding improving.
+It also came to a point where I was able to help other groupmembers with coding efficiently.
+Knowledge of the most used Time Series models and how they operate has also gotten to me.
 Something I would do differently next time, is to study literature more early, so I can get to action more quickly.
-
