@@ -122,3 +122,8 @@ To access all the Python Notebooks click on [this link](https://github.com/georg
 
 ## Add any other assignment you feel is evidence of your abilities
 All the abilities learned and used are stated throughout this portfolio.
+
+## Personal Conclusion
+As for this project, I find that I have learned the beginning of how to code and apply certain programming methods to data to search for a wanted result.
+While I am currently studying Aviation Engineering, I believe this starting coding-in-Python-skills will aid me in my future career path.
+This can be helpful not only during a future Internship, but it might give me an advantage applying for an Aviation Engineering application.
