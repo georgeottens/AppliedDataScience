@@ -5,6 +5,8 @@
 The most of the planning for this project was done using [TrelloBoard](https://trello.com/nl). It is a tool that uses specific cards that can be made with any description and devided in different subparts [as such](https://github.com/georgeottens/AppliedDataScience/blob/main/ScreenShots/TrelloBoard.png).
 Every week the group met on a monday to discuss the planning for that week what parts needed to be finished.
 
+A [global planning](https://github.com/georgeottens/AppliedDataScience/blob/main/ScreenShots/globale%20planning.png) was made by the entire group at the start of the project, to give an idea of the course of the project.
+
 This was efficient way to construct the planning, because it was always clear what needed to be done for that particular week.
 When an assignment arose, it was made into a card and devided amongst the groupmembers.
 I was very fond of this way of planning.
@@ -19,6 +21,5 @@ You just state what you did that week and that's it.
 But later I saw that it was also a good way of reflecting yourself towards others and giving/recieving feedback.
 This helped me to plan the assignments each week not only for my own schedule, but also to help other groupmembers that were waiting for my assignment to be done.
 
-
-I found this type of planning very usefull, not only for my own accomplishments, but also for the group.
+I found this type of planning using Scrum very useful, not only for my own accomplishments, but also for the group.
 Although I had to get used to this way of agile scrumplanning, it was very efficient during the project.
