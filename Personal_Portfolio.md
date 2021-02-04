@@ -12,6 +12,13 @@
 - Brain Keijzer
 - Ruud Vermeij
 
+**Groupmembers:**
+- Rick Hagenaar
+- Laurine van de Stolpe
+- Idriss Bensaga
+- Emir Açıkgöz
+- Ismail Böyükşimşek
+
 # Intro:
 This is my Personal Portfolio after following the minor Applied Data Science at the The Hague University. It will consist of different chapters on my work, my group work and various assessments explained.
 This Minor consists of six different projects which are related to real life data problems.
