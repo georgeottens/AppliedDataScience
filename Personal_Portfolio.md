@@ -111,15 +111,12 @@ All the necessary explanations of important and relevent terminology, jargon and
 These are PowerPoints given by me:
 1. [Powerpoint week 6 Monday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_6.pptx)
 2. [Powerpoint week 12 Friday](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/ppt_week_12_vrijdag.pptx)
-3. At the 21st of January, our whole group will give a presentation for PostNL itself, to explain our reasonings and findings of the project.
+3. At the 21st of January, I gave a [presentation](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/Eindpresentatie.pptx) for PostNL, to explain the group's reasonings and findings of the project.
 
 Check the [ReadME.md file](https://github.com/georgeottens/AppliedDataScience/blob/main/Presentations/README.md) in the presentations-folder for instructions on how to open them.
 
 ### 2. Writing Paper
-Written:
-- Results: SARIMA model section
-- Conclusion: SARIMA model section/General conclusion
-- Final check for the entirety of the Paper
+[Elucidations](https://github.com/georgeottens/AppliedDataScience/blob/main/Communication/Writing_Paper.md) on my contributions to writing the final paper.
 
 ## Link to Python Notebooks
 To access all the Python Notebooks click on [this link](https://github.com/georgeottens/AppliedDataScience/tree/main/Python_Notebooks). All the Python Notebooks that were most important are linked seperately throughout the Portfolio.
